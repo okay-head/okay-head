@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashwat Jaiswal
 - 👀 I’m interested in Web technologies
 - 🌱 I’m currently learning React, Python
-- 💞️ I’m looking to collaborate on frontend/backend projects
+- 💞️ I’m looking to collaborate on MERN projects
 - 📫 Reach me out at shashwatjaiswal.work@gmail.com
