@@ -3,4 +3,4 @@
 - 🐍 I’m currently learning Typescript and Python.
 - 🤝 I’m looking to collaborate on MERN projects
 - 📫 Reach me out at shashwatjaiswal.work@gmail.com
-- My personal site [🌐](https://okay-head.netlify.app/)
+- [🌐](https://okay-head.netlify.app/) My personal site
