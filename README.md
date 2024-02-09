@@ -6,7 +6,7 @@ Hi I'm Shashwat jaiswal. A UI developer skilled in crafting dynamic interfaces.
 
 You can find my repositories dating back to early 2020's but I took a break for about 1.5 year and briefly explored cloud and networking. Back in the web dev space presently, I now understand why I needed a break.
  
-## 🧰 My Expertise and Tech stack
+## 🔧 My expertise and tools of trade
 
 I specialize in building responsive and high-performance web applications that captivate users and deliver exceptional results. I strive to create seamless and visually engaging experiences.
 
