@@ -19,7 +19,7 @@ Technologies- React ecosystem: router, hook-form, framer-motion, tanstack-query,
 Tools - Figma, Adobe Photoshop, Firebase, AWS 
 
 ## 📚 What am I learning
-PHP(yea) Astro and Nextjs. I am also very excited to learn Golang
+PHP (new pHp is pretty bearable) and Astro. Also can't wait to start Golang.
 
 ## 🌍 Open Source
 
