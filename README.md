@@ -10,16 +10,18 @@ You can find my repositories dating back to early 2021's but I haven't been deve
  
 ## ⛏ My expertise and tools of trade
 
-I specialize in building responsive and high-performance web applications that captivate users and deliver exceptional results. I strive to create seamless and visually engaging experiences.
+I specialize in building responsive and high-performance web applications that captivate users and deliver exceptional results. 
 
 **My stack dump-**
 
-Technologies- React ecosystem: router, hook-form, framer-motion, tanstack-query, Zustand | Typescript, Tailwind, Zod, Node, Express, jQuery, Javascript, HTML, CSS 
+Technologies- 
+React and react ecosystem - router, hook-form,  framer-motion, tanstack-query, zustand, vite/webpack  
+Typescript, Tailwind, Zod, Node, Express, MongoDB, Firebase, PHP, MySQL jQuery, Javascript, HTML, CSS 
 
-Tools - Figma, Adobe Photoshop, Firebase, AWS 
+Tools - Figma, Adobe Photoshop, AWS 
 
 ## 📚 What am I learning
-PHP (new pHp is pretty bearable) and Astro. Also can't wait to start Golang.
+Astro and a bit of design. Nextjs is constantly releasing breaking features, so i'm skipping it for as long as I can lol
 
 ## 🌍 Open Source
 
